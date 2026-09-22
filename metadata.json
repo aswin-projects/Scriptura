@@ -1,0 +1,8 @@
+{
+  "name": "Bible Journey & Living Word",
+  "description": "An interactive Bible exploration app featuring chronological and thematic timelines, ancient maps, kid-friendly and deep study modes, daily planner, audio narration in English and Tamil, AI mentor, practical life applications, and real-time study rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
